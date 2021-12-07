@@ -1,4 +1,4 @@
-# Projet_Java_Pokemon
+# Projet_Jeu_Java
 
 Projet jeu pokemon en Java
 
